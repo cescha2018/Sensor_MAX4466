@@ -1,4 +1,0 @@
-Fuente:
-- https://lastminuteengineers.com/max4466-arduino-tutorial/
-- https://www.makerguides.com/spectrum-analyzer-with-esp32-and-max4466/
-- https://www.makerguides.com/detect-sound-with-max4466-and-arduino/ 
